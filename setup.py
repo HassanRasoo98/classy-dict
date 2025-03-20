@@ -11,9 +11,9 @@ setup(
     description='A dictionary that supports dot notation access, including nested dicts.',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    author='Your Name',
-    author_email='your.email@example.com',
-    url='https://github.com/yourusername/classyDict',
+    author='Hassan Rasool',
+    author_email='hassanrasool1057@gmail.com',
+    url='https://github.com/HassanRasoo98/classy-dict',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
