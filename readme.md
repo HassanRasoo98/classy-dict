@@ -39,7 +39,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name - [hassanrasool1057@gmail.com](mailto:hassanrasool1057@gmail.com)
+Hassan Rasool - [hassanrasool1057@gmail.com](mailto:hassanrasool1057@gmail.com)
 
 ## Acknowledgments
 

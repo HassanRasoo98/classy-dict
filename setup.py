@@ -6,7 +6,7 @@ with open('readme.md', 'r', encoding='utf-8') as fh:
 
 setup(
     name='classyDict',
-    version='0.1.1',
+    version='0.1.2',
     packages=find_packages(),
     description='A dictionary that supports dot notation access, including nested dicts.',
     long_description=long_description,
