@@ -12,8 +12,7 @@ license = { text = "MIT" }
 authors = [
     { name = "Hassan Rasool", email = "hassanrasool1057@gmail.com" }
 ]
-homepage = "https://github.com/HassanRasoo98/classy-dict"
-repository = "https://github.com/HassanRasoo98/classy-dict"
+
 keywords = ["dictionary", "dot-access", "nested", "python"]
 classifiers = [
     "Programming Language :: Python :: 3",
