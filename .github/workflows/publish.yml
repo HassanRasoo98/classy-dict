@@ -35,4 +35,4 @@ jobs:
       uses: pypa/gh-action-pypi-publish@release/v1
       with:
         password: ${{ secrets.PYPI_API_TOKEN }}
-      continue-on-error: true  # Add this line to continue on error
+      continue-on-error: false  # Add this line to continue on error
