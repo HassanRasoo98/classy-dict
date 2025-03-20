@@ -6,7 +6,8 @@ build-backend = "setuptools.build_meta"
 name = "classyDict"
 version = "0.1.2"
 description = "A dictionary that supports dot notation access, including nested dicts."
-readme = "README.md"
+readme = "readme.md"
+long_description_content_type = "text/markdown"
 requires-python = ">=3.7"
 license = { text = "MIT" }
 authors = [
